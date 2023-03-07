@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on re2ikotr.github.io</title>
+    <link>https://example.com/posts/</link>
+    <description>Recent content in Posts on re2ikotr.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Mar 2023 16:26:47 +0800</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fnb</title>
+      <link>https://example.com/posts/fnb/</link>
+      <pubDate>Tue, 07 Mar 2023 16:26:47 +0800</pubDate>
+      
+      <guid>https://example.com/posts/fnb/</guid>
+      <description>134 </description>
+    </item>
+    
+  </channel>
+</rss>
